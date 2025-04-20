@@ -1,0 +1,16 @@
+{
+  "name": "tracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "build": "tailwindcss build myapp/static/myapp/src.css -o myapp/static/myapp/styles.css"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "tailwindcss": "^2.2.16"
+  }
+}
